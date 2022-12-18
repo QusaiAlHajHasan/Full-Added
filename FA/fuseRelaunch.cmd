@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/Study/2019-2020/Second Semester/CPE433 - Advanced Digital/FA/FATB_isim_beh.exe" -prj "D:/Study/2019-2020/Second Semester/CPE433 - Advanced Digital/FA/FATB_beh.prj" "work.FATB" "work.glbl" 
